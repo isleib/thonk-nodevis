@@ -1,0 +1,22 @@
+{
+  "name": "thonk-nodevis",
+  "version": "0.0.0",
+  "description": "Data visualization of nodes surrounding a topic, varying in size based on certain criteria. A module for `thonk`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isleib/thonk-nodevis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isleib/thonk-nodevis/issues"
+  },
+  "homepage": "https://github.com/isleib/thonk-nodevis#readme",
+  "dependencies": {
+    "d3": "git+https://github.com/d3/d3.git"
+  }
+}
